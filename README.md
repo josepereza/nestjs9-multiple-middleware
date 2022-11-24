@@ -25,7 +25,9 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
+## Tutoriales:
+* https://progressivecoder.com/nestjs-middleware-tutorial-learn-nestjs-series-part-5/
+* https://dev.to/ilyary/nestjs-middleware-18ki
 ## Installation
 
 ```bash
